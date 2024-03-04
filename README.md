@@ -1,6 +1,3 @@
-# Todo-List-Personal-Dashboard
-Build a personal dashboard application using React.js that displays a user's personal information, a to-do list, and the current weather in their city. This project aims to assess your proficiency in React fundamentals, state management, and interaction with external APIs.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

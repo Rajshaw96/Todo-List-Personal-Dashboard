@@ -1,0 +1,27 @@
+@import url("https://unpkg.com/@webpixels/css@1.1.5/dist/index.css");
+
+/* Bootstrap Icons */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css");
+
+.btn-sm,
+.btn-group-sm > .btn {
+  padding: 8px 12px 8px 12px;
+  font-size: 10px;
+  border-radius: 2px;
+}
+
+.input-group-append {
+  padding: 10px;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px;
+  color: #16192c;
+  background-color: transparent;
+  border: 1px solid #e7eaf0;
+}
+.itamList {
+  display: inline;
+}
